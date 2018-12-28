@@ -4,7 +4,7 @@ from classifier import *
 from classifier import algorithms
 import argparse
 
-# 보휘 바보 멍청이 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+# 보휘 바보 멍청이 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
 if __name__ == "__main__":
     # Argument Setting
