@@ -2,6 +2,7 @@ from .. import Manager
 
 import os
 
+#바둑이가 다녀감
 
 def make_model(model_name, input_shape, batch_size, num_epochs, x_train, y_train):
     """
